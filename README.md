@@ -24,8 +24,13 @@ Used automated browsing to visit the Mars Temperature Data SiteLinks to an exter
 
 ![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/6508ca9c-3cda-45c0-9b00-3c6cded96fd4)
 
-
 Assembled the scraped data into a Pandas DataFrame.
+
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/99977ef5-bbd8-4501-97d2-3395aa42e167)
+
+Prepare Data for Analysis: 
+
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/f06a1ab3-a8af-41d4-81d8-1027edc75ca6)
 
 HINT Analyze your dataset by using Pandas functions to answer the following questions:
 
