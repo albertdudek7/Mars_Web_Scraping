@@ -39,17 +39,17 @@ How many Martian (and not Earth) days worth of data exist in the scraped dataset
 ![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/c29cb344-2466-459f-a055-6aa8d9060431)
 
 What are the coldest and the warmest months on Mars (at the location of Curiosity)?  
-![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/4798c542-d358-43b1-b878-86bce1f50ef4)
+
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/a61cb15f-8afe-4e74-b633-4da6036e9474)
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/b98fe1cb-0e0c-48c3-80b7-f903cfd4a706)
+
+
 
 Which months have the lowest and the highest atmospheric pressure on Mars?  
 ![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/0372f38a-c928-48cb-b9e7-08af5071afaf)
 
 About how many terrestrial (Earth) days exist in a Martian year? 
 Visually estimated the results by plotting the daily minimum temperature. 
-
-
-![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/a61cb15f-8afe-4e74-b633-4da6036e9474)
-![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/b98fe1cb-0e0c-48c3-80b7-f903cfd4a706)
 
 
 
