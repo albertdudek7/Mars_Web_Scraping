@@ -34,7 +34,9 @@ Prepare Data for Analysis:
 
 Analysis of Mars Data:
 The following questions were answered: 
+
 How many months exist on Mars?
+
 How many Martian (and not Earth) days worth of data exist in the scraped dataset? 
 ![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/c29cb344-2466-459f-a055-6aa8d9060431)
 
@@ -51,6 +53,7 @@ Which months have the lowest and the highest atmospheric pressure on Mars?
 About how many terrestrial (Earth) days exist in a Martian year? 
 Visually estimated the results by plotting the daily minimum temperature. 
 
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/d134fb6f-68dc-4aec-94c4-9def9e5e4913)
 
 
 
