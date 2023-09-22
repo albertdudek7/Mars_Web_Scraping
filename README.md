@@ -32,6 +32,25 @@ Prepare Data for Analysis:
 
 ![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/f06a1ab3-a8af-41d4-81d8-1027edc75ca6)
 
-HINT Analyze your dataset by using Pandas functions to answer the following questions:
+Analysis of Mars Data:
+The following questions were answered: 
+How many months exist on Mars?
+How many Martian (and not Earth) days worth of data exist in the scraped dataset? 
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/c29cb344-2466-459f-a055-6aa8d9060431)
 
-How many months exist on Mars? How many Martian (and not Earth) days worth of data exist in the scraped dataset? What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question: Find the average minimum daily temperature for all of the months. Plot the results as a bar chart. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question: Find the average daily atmospheric pressure of all the months. Plot the results as a bar chart. About how many terrestrial (Earth) days exist in a Martian year? To answer this question: Consider how many days elapse on Earth in the time that Mars circles the Sun once. Visually estimate the result by plotting the daily minimum temperature. Export the DataFrame to a CSV file.
+What are the coldest and the warmest months on Mars (at the location of Curiosity)?  
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/4798c542-d358-43b1-b878-86bce1f50ef4)
+
+Which months have the lowest and the highest atmospheric pressure on Mars?  
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/0372f38a-c928-48cb-b9e7-08af5071afaf)
+
+About how many terrestrial (Earth) days exist in a Martian year? 
+Visually estimated the results by plotting the daily minimum temperature. 
+
+
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/a61cb15f-8afe-4e74-b633-4da6036e9474)
+![image](https://github.com/albertdudek7/Mars_Web_Scraping/assets/127783844/b98fe1cb-0e0c-48c3-80b7-f903cfd4a706)
+
+
+
+
